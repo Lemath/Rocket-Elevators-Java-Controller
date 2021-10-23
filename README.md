@@ -1,7 +1,7 @@
 # Rocket-Elevators-Java-Controller
 ### Description
 
-This project simulate the selection and movement logic for elevators in a commercial building and is written in Go.
+This project simulate the selection and movement logic for elevators in a commercial building and is written in Java.
 
 When someone want to call an elevator from the lobby, he will first select his destination. The controller will then decide which column of the battery to use and select the best elevator available to fill the request and carry the user to his selected floor. When someone call an elevator from a floor, the corresponding column will select his best available elevator to pick up the user and bring him back to the lobby.
 
