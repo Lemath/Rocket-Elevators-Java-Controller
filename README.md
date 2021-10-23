@@ -11,6 +11,9 @@ You will need Java JDK installed on your computer first
 
 https://java.com/en/download/help/download_options.html
 
+All files are in src/main/java/com/example 
+and the test file is in src/test/java/com/example
+
 ### Running the tests
 
 Tests are run using maven
